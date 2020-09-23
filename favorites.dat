@@ -1,0 +1,81 @@
+; CamEVU - Cam Database
+;================================
+; We do not suggest modifying this file unless you
+; know exactly what your doing. Messing something up
+; could cause CamEVU to not work.
+
+[Willard GhostCam]
+Address=http://www.courierpress.com/ghost/fullsize.jpg
+UpdateInterval=120
+
+[All Makes Vacuums]
+Address=http://www.vacsew.com/cam/00000000_sldvac.jpg
+UpdateInterval=120
+
+[Altötting, Germany]
+Address=http://www.altoetting-touristinfo.de/kamera.jpg
+UpdateInterval=120
+
+[Sanibel & Captiva Island]
+Address=http://www.sanibel-captiva-island.com/live.jpg
+UpdateInterval=120
+
+[Amsterdam Overtoom TV Live]
+Address=http://overtoom.tv/webcam/cam3_0000000001.jpg
+UpdateInterval=30
+
+[Messrs Maquires Cam]
+Address=http://www.webviews.co.uk/liveimages/maguire03.jpg
+UpdateInterval=60
+
+[Cascade Ferret Network Shelter]
+Address=http://www.spiretech.com/~leonard/cfn/central/images/cfnprF.jpg
+UpdateInterval=60
+
+[Dublin City Cam]
+Address=http://www.webviews.co.uk/liveimages/maguire01.jpg
+UpdateInterval=60
+
+[Here and Now dot new]
+Address=http://www.hereandnow.net/2.5/main2.5/streams/master2.jpg
+UpdateInterval=60
+
+[EvanSims.com NomadCam]
+Address=http://www.evansims.com/images/roomcam.jpg
+UpdateInterval=60
+
+[EvanSims.com HomeCam]
+Address=http://www.evansims.com/images/webcam.jpg
+UpdateInterval=60
+
+[BestSiteOnThePlanet.com - BrianCam]
+Address=http://www.evansims.com/images/briancam.jpg
+UpdateInterval=60
+
+[John York Cam]
+Address=http://www.evansims.com/images/johncam.jpg
+UpdateInterval=120
+
+[KevinSanders.net Cam]
+Address=http://www.kevinsanders.net/webcam/1.jpg
+UpdateInterval=60
+
+[Notre Dame South Quad]
+Address=http://www.nd.edu/~webcam/rockne.jpg
+UpdateInterval=60
+
+[Praque Castle]
+Address=http://webcam.prazskenoviny.cz/vecer1.jpg
+UpdateInterval=60
+
+[Tahiti Nui Travel]
+Address=http://www.borabora.com/webcam/webcam32.jpg
+UpdateInterval=60
+
+[Penny-Arcade.com's Tycho]
+Address=http://home.rmci.net/jblackaller/tycam.jpg
+UpdateInterval=300
+
+[Penny-Arcade.com's Gabe]
+Address=http://home.rmci.net/jblackaller/cam1.jpg
+UpdateInterval=300
