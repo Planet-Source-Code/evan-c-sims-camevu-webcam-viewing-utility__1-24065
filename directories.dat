@@ -1,0 +1,14 @@
+; CamEVU - Webcam Directory Database
+;================================
+; We do not suggest modifying this file unless you
+; know exactly what your doing. Messing something up
+; could cause CamEVU to not work.
+
+[Camive]
+Address=http://camive.erroneousdata.com/
+
+[EarthCam]
+Address=http://www.earthcam.com/
+
+[TDP TopCams]
+Address=http://topcams.thedawnpatrol.com/
